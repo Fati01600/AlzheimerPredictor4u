@@ -1,9 +1,11 @@
 # AlzheimerPredictor4u
 ----------------------------------------------------------
+
 # BI-eksamen 2025
 
 ## Contributors
 #### Group 4, l25dat4bi1f 
+
 Business Intelligence 2025  
 Copenhagen Business Academy, Lyngby  
 
@@ -18,10 +20,10 @@ GitHub Repository: [AlzheimerPredictor4u_BI_Exam
 - Email: [cph-fs156@cphbusiness.dk](mailto:cph-fs156@cphbusiness.dk)  
 - GitHub: [https://github.com/Fati01600](https://github.com/Fati01600)
 
-# Problem Statement
+# Problem Statement:
 
 
-# Context
+# Context:
 
 
 # Purpose
