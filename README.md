@@ -1,4 +1,3 @@
-# AlzheimerPredictor4u
 # BI-eksamen 2025
 
 ## Project Title  
@@ -7,6 +6,7 @@
 
 ## Contributors
 #### Group 4, l25dat4bi1f 
+
 Business Intelligence 2025  
 Copenhagen Business Academy, Lyngby  
 
@@ -47,7 +47,6 @@ Alzheimer’s is a progressive condition that affects memory/thinking, and early
 The main goal of this project is to build a simple and practical system that can help doctors and healthcare-staff assess a patient’s risk of developing Alzheimer’s disease. We want to do this by using Business Intelligence (BI) and Artificial Intelligence (AI) techniques on real patient data. 
 
 ### Our goals include:
-
 - Creating a machine learning model that can predict the likelihood of an Alzheimer’s diagnosis.
 - Identifying which features—such as age, gender, health conditions, and lifestyle habits are most strongly linked to Alzheimer’s risk.
 - Designing an interactive dashboard that presents predictions and feature insights in a clear, user-friendly way for clinical use
